@@ -2,6 +2,8 @@
 
 My Terraform practice, lesson by lesson. Comments in the files are in Polish.
 
+I used Claude Code as a tutor: it prepared each lesson's starting files with TODOs, explained concepts, and reviewed my code. The solutions are mine.
+
 | Lesson | Topic |
 |---|---|
 | lekcja-1 | First resources (Docker provider), plan / apply / destroy, ForceNew |
